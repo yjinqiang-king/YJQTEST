@@ -73,7 +73,7 @@
 		E6AEBE5DB42949C4A120C5DC9F2450AA /* Pods-YJQTest_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-YJQTest_Tests-dummy.m"; sourceTree = "<group>"; };
 		E7784283D3531B48BB7CBE7EE79F0D95 /* Pods_YJQTest_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_YJQTest_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		EF74C5EBE693EC79A4479BDC3ECF1D3C /* Pods-YJQTest_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-YJQTest_Example-dummy.m"; sourceTree = "<group>"; };
-		F941F73C69DCAF2C59E53462E876B764 /* YJQTest.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = YJQTest.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		F941F73C69DCAF2C59E53462E876B764 /* YJQTest.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = YJQTest.podspec; sourceTree = "<group>"; tabWidth = 2; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
