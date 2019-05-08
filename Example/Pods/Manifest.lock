@@ -1,0 +1,16 @@
+PODS:
+  - YJQTest (0.1.0)
+
+DEPENDENCIES:
+  - YJQTest (from `../`)
+
+EXTERNAL SOURCES:
+  YJQTest:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  YJQTest: 6c0e6f8c430566094de486cef6693a497ff8c8de
+
+PODFILE CHECKSUM: cb83bbd7488f835efc4ce8146b26277960ab33ad
+
+COCOAPODS: 1.6.0

@@ -1,0 +1,6 @@
+framework module YJQTest {
+  umbrella header "YJQTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
